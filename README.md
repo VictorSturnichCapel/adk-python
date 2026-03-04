@@ -1,6 +1,7 @@
 # 🤖 Meu Agente de IA Personalizado
 ### Powered by Google ADK (Agent Development Kit) & Gemini 1.5
 
+
 ![Python](https://img.shields.io/badge/python-3.10%2B-blue?logo=python&logoColor=white)
 ![Google ADK](https://img.shields.io/badge/Framework-Google%20ADK-green)
 ![Gemini](https://img.shields.io/badge/Model-Gemini%201.5%20Flash-orange)
