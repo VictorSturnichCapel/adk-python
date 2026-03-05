@@ -17,7 +17,7 @@ Este projeto consiste em um **Agente de Inteligência Artificial** autônomo e m
     * **CLI:** Interação rápida via terminal.
     * **Web Dashboard:** Interface gráfica completa gerada automaticamente.
 * **🛠️ Tool-Ready:** Estrutura preparada para receber funções Python personalizadas (Function Calling).
-* **⚡ Performance:** Otimizado para rodar o modelo `gemini-1.5-flash`, garantindo respostas em tempo real.
+* **⚡ Performance:** Otimizado para rodar o modelo `gemini-2.5-flash`, garantindo respostas em tempo real.
 
 ---
 
