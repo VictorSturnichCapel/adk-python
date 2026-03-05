@@ -1,10 +1,9 @@
 # 🤖 Meu Agente de IA Personalizado
-### Powered by Google ADK (Agent Development Kit) & Gemini 1.5
-
+### Powered by Google ADK (Agent Development Kit) & Gemini 2.5
 
 ![Python](https://img.shields.io/badge/python-3.10%2B-blue?logo=python&logoColor=white)
 ![Google ADK](https://img.shields.io/badge/Framework-Google%20ADK-green)
-![Gemini](https://img.shields.io/badge/Model-Gemini%201.5%20Flash-orange)
+![Gemini](https://img.shields.io/badge/Model-Gemini%202.5%20Flash-orange)
 ![License](https://img.shields.io/badge/license-MIT-lightgrey)
 
 Este projeto consiste em um **Agente de Inteligência Artificial** autônomo e modular, desenvolvido localmente utilizando o framework oficial do Google para agentes. Ele não é apenas um chatbot, mas um sistema extensível capaz de gerenciar sessões, executar ferramentas e interagir via interface web.
