@@ -34,8 +34,8 @@ Antes de iniciar, você precisará de:
 
 1.  **Clone o repositório:**
     ```bash
-    git clone [https://github.com/seu-usuario/seu-agente-adk.git](https://github.com/seu-usuario/seu-agente-adk.git)
-    cd seu-agente-adk
+    git clone [https://github.com/victorsturnichcapel/adk-python.git](https://github.com/victorsturnichcapel/adk-python.git)
+    cd adk-python
     ```
 
 2.  **Configure o Ambiente Virtual:**
@@ -67,5 +67,5 @@ O ADK abstrai a complexidade. Escolha como deseja interagir:
 ### Modo Chat (Terminal)
 Ideal para testes rápidos e desenvolvimento:
 ```bash
-adk chat meu_agente
+adk chat agent
 ```
