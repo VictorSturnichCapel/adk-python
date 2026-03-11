@@ -57,7 +57,6 @@ Antes de iniciar, você precisará de:
     ```env
     GOOGLE_API_KEY=SUA_CHAVE_AQUI
     ```
-
 ---
 
 ## 🎮 Como Executar
