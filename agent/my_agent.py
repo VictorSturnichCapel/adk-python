@@ -6,6 +6,7 @@ from duckduckgo_search import DDGS
 
 # --- FERRAMENTAS EXISTENTES ---
 
+
 def pesquisar_na_internet_navegador(termo: str):
     """Abre uma pesquisa no Google no navegador do usuário (A IA não lê o resultado)."""
     url = f"https://www.google.com/search?q={termo}"
